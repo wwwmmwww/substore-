@@ -1,4 +1,4 @@
-// 20240828013041
+// 20240828015052
 // https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/TheRaw.json
 
 {
@@ -502,352 +502,312 @@
       "url": "https://raw.githubusercontent.com/black2c7/TheMagic-Icons/main/Icons/VPS.png"
     },
     {
-      "name": "Flower",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Flower.png"
+      "name": "鱼舍",
+      "url": "https://github.com/LucidaPlus/airport-icons/blob/main/files/yushe.png"
     },
     {
-      "name": "Maying",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Maying.png"
+      "name": "ACA",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/ACA.png"
     },
     {
-      "name": "Nexitally",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nex.png"
+      "name": "AMY",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/AMY.png"
     },
     {
-      "name": "Dler",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Dler.png"
+      "name": "ARK",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/ARK.png"
     },
     {
-      "name": "Cylink",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Cylink.png"
+      "name": "Aladdin",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Aladdin.png"
     },
     {
-      "name": "SaySS",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SaySS.png"
+      "name": "BaJie",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/BaJie.png"
     },
     {
-      "name": "Boslife",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Boslife.png"
+      "name": "BaiYueGuang",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/BaiYueGuang.png"
     },
     {
-      "name": "CCCat",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/CCCat.png"
+      "name": "BigBus",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/BigBus.png"
     },
     {
-      "name": "AAEX",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/AAEX.png"
+      "name": "Bitz",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Bitz.png"
     },
     {
-      "name": "Hitun",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Hitun.png"
-    },
-    {
-      "name": "MDSS",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/MDSS.png"
-    },
-    {
-      "name": "STC",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/STC.png"
-    },
-    {
-      "name": "Blinkload",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Blink.png"
-    },
-    {
-      "name": "YTOO",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ytoo.png"
-    },
-    {
-      "name": "SSP",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ssp.png"
-    },
-    {
-      "name": "Renzhe",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Renzhe.png"
-    },
-    {
-      "name": "NSFW",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/NSFW.png"
-    },
-    {
-      "name": "Cord",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Cord.png"
-    },
-    {
-      "name": "Exflux",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Exflux.png"
-    },
-    {
-      "name": "ImmTel",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Imm.png"
-    },
-    {
-      "name": "Xingmeng",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xingmeng.png"
-    },
-    {
-      "name": "Ark",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ark.png"
-    },
-    {
-      "name": "Amy",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Amy.png"
-    },
-    {
-      "name": "GuGuEX",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Guguex.png"
-    },
-    {
-      "name": "Kache",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kache.png"
-    },
-    {
-      "name": "Cm",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Cm.png"
-    },
-    {
-      "name": "Fastnode",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Fastnode.png"
-    },
-    {
-      "name": "Boom",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Boom.png"
-    },
-    {
-      "name": "Np",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Np.png"
-    },
-    {
-      "name": "Catnet",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Catnet.png"
-    },
-    {
-      "name": "Xair",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Xair.png"
-    },
-    {
-      "name": "Dukou",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Dukou.png"
-    },
-    {
-      "name": "CoCo",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Coco.png"
-    },
-    {
-      "name": "V2Tun",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/V2tun.png"
-    },
-    {
-      "name": "DLK",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/DLK.png"
-    },
-    {
-      "name": "Fastlink",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Fastlink.png"
-    },
-    {
-      "name": "Yunyi",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Yunyi.png"
+      "name": "Bocchi",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Bocchi.png"
     },
     {
       "name": "CNIX",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/CNIX.png"
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/CNIX.png"
     },
     {
-      "name": "Zhs",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Zhs.png"
+      "name": "CTC",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/CTC.png"
     },
     {
-      "name": "Bywave",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bywave.png"
+      "name": "Catnet",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Catnet.png"
     },
     {
-      "name": "Ywhl",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Ywhl.png"
+      "name": "CiYuan",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/CiYuan.png"
     },
     {
-      "name": "Kedou",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kedou.png"
+      "name": "Clash",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Clash.png"
     },
     {
-      "name": "Fastfish",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Fastfish.png"
+      "name": "ClashMeta",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/ClashMeta.png"
     },
     {
-      "name": "Dianliang",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Dianliang.png"
+      "name": "Coffee",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Coffee.png"
     },
     {
-      "name": "ASN",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/ASN.png"
+      "name": "Coo",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Coo.png"
     },
     {
-      "name": "WestData",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/WestData.png"
+      "name": "CreamData",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/CreamData.png"
     },
     {
-      "name": "SSlinks",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSlinks.png"
+      "name": "DanTa",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/DanTa.png"
     },
     {
-      "name": "Paoluz",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Paoluz.png"
+      "name": "Dler",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Dler.png"
     },
     {
-      "name": "Prpr",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Prpr.png"
+      "name": "Dog",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Dog.png"
     },
     {
-      "name": "Skicat",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png"
+      "name": "ESNC",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/ESNC.png"
     },
     {
-      "name": "Suda",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Suda.png"
+      "name": "Facmata",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Facmata.png"
     },
     {
-      "name": "Muchang",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Muchang.png"
+      "name": "Film",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Film.png"
     },
     {
-      "name": "Shandian",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Shandian.png"
+      "name": "Flower",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Flower.png"
     },
     {
-      "name": "MGNB",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/MGNB.png"
-    },
-    {
-      "name": "Wallless",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Wallless.png"
-    },
-    {
-      "name": "Element",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Element.png"
-    },
-    {
-      "name": "BitCloud",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Bitcloud.png"
-    },
-    {
-      "name": "Hxlm",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Hxlm.png"
-    },
-    {
-      "name": "Miaona",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Miao.png"
-    },
-    {
-      "name": "Duang",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Duang.png"
-    },
-    {
-      "name": "FNF",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/FNF.png"
-    },
-    {
-      "name": "Rookie",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Rookie.png"
-    },
-    {
-      "name": "OvO",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/OvO.png"
-    },
-    {
-      "name": "Socloud",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Socloud.png"
-    },
-    {
-      "name": "Suncloud",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Sun.png"
-    },
-    {
-      "name": "GLaDOS",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/GLaDOS.png"
-    },
-    {
-      "name": "Situ",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Situ.png"
-    },
-    {
-      "name": "Kuai",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kuai.png"
-    },
-    {
-      "name": "SWCloud",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SWCloud.png"
-    },
-    {
-      "name": "MIMEMI",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Mimemi.png"
-    },
-    {
-      "name": "XTunnel",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/XTunnel.png"
-    },
-    {
-      "name": "Touhou",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Touhou.png"
-    },
-    {
-      "name": "Pacifiuue",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Pacifique.png"
-    },
-    {
-      "name": "GaCloud",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/GaCloud.png"
-    },
-    {
-      "name": "Enet",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Enet.png"
-    },
-    {
-      "name": "FRANXX",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/FRANXX.png"
-    },
-    {
-      "name": "Nucleus",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Nucleus.png"
-    },
-    {
-      "name": "Flyint",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Flyint.png"
-    },
-    {
-      "name": "SCTC",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/SCTC.png"
-    },
-    {
-      "name": "AEX",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/AEX.png"
-    },
-    {
-      "name": "LiYing",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/LiYing.png"
+      "name": "FlyingBird",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/FlyingBird.png"
     },
     {
       "name": "Godetia",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Godetia.png"
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Godetia.png"
     },
     {
-      "name": "Thunder",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Thunder.png"
+      "name": "IMM",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/IMM.png"
     },
     {
-      "name": "Kafka",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kafka.png"
+      "name": "JAS.AI",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/JAS.AI.png"
     },
     {
-      "name": "Unicorn",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Unicorn.png"
+      "name": "JiJi",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/JiJi.png"
     },
     {
-      "name": "Mickey",
-      "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Mickey.png"
+      "name": "Kuromis",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Kuromis.png"
     },
     {
-      "name": "鱼舍",
-      "url": "https://dash.yushe.org/theme/Aurora/static/img/rocket2.a37fff7d.svg"
+      "name": "Lend",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Lend.png"
+    },
+    {
+      "name": "Linkeless",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Linkeless.png"
+    },
+    {
+      "name": "Loon",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Loon.png"
+    },
+    {
+      "name": "MESL",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/MESL.png"
+    },
+    {
+      "name": "Maying",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Maying.png"
+    },
+    {
+      "name": "Naiko",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Naiko.png"
+    },
+    {
+      "name": "Nerwo",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Nerwo.png"
+    },
+    {
+      "name": "Nexitally",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Nexitally.png"
+    },
+    {
+      "name": "NieR",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/NieR.png"
+    },
+    {
+      "name": "OUO",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/OUO.png"
+    },
+    {
+      "name": "PaoFu",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/PaoFu.png"
+    },
+    {
+      "name": "QuantumultX",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/QuantumultX.png"
+    },
+    {
+      "name": "Recmata",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Recmata.png"
+    },
+    {
+      "name": "RenZhe",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/RenZhe.png"
+    },
+    {
+      "name": "S",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/S.png"
+    },
+    {
+      "name": "SWIFT",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/SWIFT.png"
+    },
+    {
+      "name": "SYN",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/SYN.png"
+    },
+    {
+      "name": "SeSe",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/SeSe.png"
+    },
+    {
+      "name": "Shadowrocket",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Shadowrocket.png"
+    },
+    {
+      "name": "ShouHou",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/ShouHou.png"
+    },
+    {
+      "name": "SiFangCai",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/SiFangCai.png"
+    },
+    {
+      "name": "Smart",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Smart.png"
+    },
+    {
+      "name": "Stash",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Stash.png"
+    },
+    {
+      "name": "SuanNai",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/SuanNai.png"
+    },
+    {
+      "name": "Surfboard",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Surfboard.png"
+    },
+    {
+      "name": "Surge",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png"
+    },
+    {
+      "name": "TAG",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/TAG.png"
+    },
+    {
+      "name": "TKV",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/TKV.png"
+    },
+    {
+      "name": "TKV_X",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/TKV_X.png"
+    },
+    {
+      "name": "Texon-EY",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-EY.png"
+    },
+    {
+      "name": "Texon-KL",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Texon-KL.png"
+    },
+    {
+      "name": "Titan",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Titan.png"
+    },
+    {
+      "name": "To2",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/To2.png"
+    },
+    {
+      "name": "Tsunami",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Tsunami.png"
+    },
+    {
+      "name": "UCSS",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/UCSS.png"
+    },
+    {
+      "name": "Uni",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Uni.png"
+    },
+    {
+      "name": "V2Ray",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/V2Ray.png"
+    },
+    {
+      "name": "V2Tun",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/V2Tun.png"
+    },
+    {
+      "name": "WestData",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/WestData.png"
+    },
+    {
+      "name": "Windows",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Windows.png"
+    },
+    {
+      "name": "XLM",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/XLM.png"
+    },
+    {
+      "name": "XianYu",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/XianYu.png"
+    },
+    {
+      "name": "YTOO",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/YTOO.png"
+    },
+    {
+      "name": "Yep",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Yep.png"
+    },
+    {
+      "name": "tvOS",
+      "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/tvOS.png"
     }
   ]
 }
